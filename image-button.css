@@ -1,0 +1,9 @@
+.image-button {
+  background-image: url('https://static.wikia.nocookie.net/p__/images/f/f2/Deltarune_Green_Overworld.png/revision/latest?cb=20260724220954&path-prefix=protagonist');
+  background-size: cover;
+  width: 150px;           
+  height: 50px;           
+  border: none;
+  background-color: transparent;
+  cursor: pointer;
+}
